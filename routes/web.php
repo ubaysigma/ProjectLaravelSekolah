@@ -16,5 +16,7 @@ Route::get('/layout', function () {
 });
 Route::get('/Admin/dashboard', function () {
     return view('Admin.dashboard');
-});
-
+})->name('Admin.dashboard');
+Route::get('/Admin/about', function () {
+    return view('Admin.about');
+})->name('Admin.about');
