@@ -20,3 +20,6 @@ Route::get('/Admin/dashboard', function () {
 Route::get('/Admin/about', function () {
     return view('Admin.about');
 })->name('Admin.about');
+Route::get('/Admin/Student/index', function () {
+    return view('Admin.Student.index');
+})->name('Admin.Student.index');
