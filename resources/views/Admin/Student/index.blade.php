@@ -170,175 +170,27 @@
 
 
                 <tbody>
-
-                    <tr class="bg-white border-b">
-
-                        <td class="px-6 py-4">
-                            1
-                        </td>
-
-                        <td class="px-6 py-4 font-medium text-gray-900">
-                            Ahmad Fauzan
-                        </td>
-
-                        <td class="px-6 py-4">
-                            20260001
-                        </td>
-
-                        <td class="px-6 py-4">
-                            XI PPLG 1
-                        </td>
-
-                        <td class="px-6 py-4">
-
-                            <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">
-                                Active
-                            </span>
-
-                        </td>
-
-                    </tr>
-
-
-                    <tr class="bg-white border-b">
-
-                        <td class="px-6 py-4">
-                            2
-                        </td>
-
-                        <td class="px-6 py-4 font-medium text-gray-900">
-                            Muhammad Rizky
-                        </td>
-
-                        <td class="px-6 py-4">
-                            20260002
-                        </td>
-
-                        <td class="px-6 py-4">
-                            XI PPLG 2
-                        </td>
-
-                        <td class="px-6 py-4">
-
-                            <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">
-                                Active
-                            </span>
-
-                        </td>
-
-                    </tr>
-
-
-                    <tr class="bg-white">
-
-                        <td class="px-6 py-4">
-                            3
-                        </td>
-
-                        <td class="px-6 py-4 font-medium text-gray-900">
-                            Bagus Setiawan
-                        </td>
-
-                        <td class="px-6 py-4">
-                            20260003
-                        </td>
-
-                        <td class="px-6 py-4">
-                            XI PPLG 1
-                        </td>
-
-                        <td class="px-6 py-4">
-
-                            <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">
-                                Active
-                            </span>
-
-                        </td>
-
-                    </tr>
-                    <tr class="bg-white">
-                        <td class="px-6 py-4">4</td>
-                        <td class="px-6 py-4 font-medium text-gray-900">Ahmad Rapunzel</td>
-                        <td class="px-6 py-4">23132131</td>
-                        <td class="px-6 py-4">XI PPLG 2</td>
-                        <td class="px-6 py-4">
-                            <span class="px-2.5 py-1 text-xs font-medium text-red-800 bg-red-100 rounded-full">
-                                InActive
-                            </span>
-                        </td>
-                    </tr>
-                    <tr class="bg-white">
-                        <td class="px-6 py-4">5</td>
-                        <td class="px-6 py-4 font-medium text-gray-900">Andi Pratama</td>
-                        <td class="px-6 py-4">20260001</td>
-                        <td class="px-6 py-4">X RPL 1</td>
-                        <td class="px-6 py-4">
-                            <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">
-                                Active
-                            </span>
-                        </td>
-                    </tr>
-
-                    <tr class="bg-white">
-                        <td class="px-6 py-4">6</td>
-                        <td class="px-6 py-4 font-medium text-gray-900">Siti Nurhaliza</td>
-                        <td class="px-6 py-4">20260002</td>
-                        <td class="px-6 py-4">X RPL 2</td>
-                        <td class="px-6 py-4">
-                            <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">
-                                Active
-                            </span>
-                        </td>
-                    </tr>
-
-                    <tr class="bg-white">
-                        <td class="px-6 py-4">7</td>
-                        <td class="px-6 py-4 font-medium text-gray-900">Rizky Ramadhan</td>
-                        <td class="px-6 py-4">20260003</td>
-                        <td class="px-6 py-4">XI PPLG 1</td>
-                        <td class="px-6 py-4">
-                            <span class="px-2.5 py-1 text-xs font-medium text-red-800 bg-red-100 rounded-full">
-                                Inactive
-                            </span>
-                        </td>
-                    </tr>
-
-                    <tr class="bg-white">
-                        <td class="px-6 py-4">8</td>
-                        <td class="px-6 py-4 font-medium text-gray-900">Dewi Lestari</td>
-                        <td class="px-6 py-4">20260004</td>
-                        <td class="px-6 py-4">XI PPLG 2</td>
-                        <td class="px-6 py-4">
-                            <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">
-                                Active
-                            </span>
-                        </td>
-                    </tr>
-
-                    <tr class="bg-white">
-                        <td class="px-6 py-4">9</td>
-                        <td class="px-6 py-4 font-medium text-gray-900">Fajar Nugroho</td>
-                        <td class="px-6 py-4">20260005</td>
-                        <td class="px-6 py-4">XII TKJ 1</td>
-                        <td class="px-6 py-4">
-                            <span class="px-2.5 py-1 text-xs font-medium text-yellow-800 bg-yellow-100 rounded-full">
-                                Cuti
-                            </span>
-                        </td>
-                    </tr>
-
-                    <tr class="bg-white">
-                        <td class="px-6 py-4">10</td>
-                        <td class="px-6 py-4 font-medium text-gray-900">Putri Anggraini</td>
-                        <td class="px-6 py-4">20260006</td>
-                        <td class="px-6 py-4">XII TKJ 2</td>
-                        <td class="px-6 py-4">
-                            <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">
-                                Active
-                            </span>
-                        </td>
-                    </tr>
-
+                    @foreach ($students as $siswa)
+                        <tr class="bg-white border-b hover:bg-gray-50">
+                            <td class="px-6 py-4">
+                                {{ $loop->iteration }}
+                            </td>
+                            <td class="px-6 py-4 font-medium text-gray-900">
+                                {{ $siswa['name'] }}
+                            </td>
+                            <td class="px-6 py-4">
+                                {{ $siswa['nis'] }}
+                            </td>
+                            <td class="px-6 py-4">
+                                {{ $siswa['class'] }}
+                            </td>
+                            <td class="px-6 py-4">
+                                <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">
+                                    {{ $siswa['status'] }}
+                                </span>
+                            </td>
+                        </tr>
+                    @endforeach
                 </tbody>
 
             </table>
