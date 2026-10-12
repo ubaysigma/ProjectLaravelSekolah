@@ -157,11 +157,11 @@
                         </th>
 
                         <th class="px-6 py-3">
-                            Class
+                            Classroom
                         </th>
 
                         <th class="px-6 py-3">
-                            Status
+                            keadaan
                         </th>
 
                     </tr>
@@ -170,7 +170,7 @@
 
 
                 <tbody>
-                    @foreach ($students as $siswa)
+                        @foreach ($students as $siswa)
                         <tr class="bg-white border-b hover:bg-gray-50">
                             <td class="px-6 py-4">
                                 {{ $loop->iteration }}
