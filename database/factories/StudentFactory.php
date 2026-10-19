@@ -21,7 +21,7 @@ class StudentFactory extends Factory
             'name' => fake() -> name(),
             'nis' => fake()->randomNumber(5,false),
             'classroom' => fake() -> randomElement(['11PPLG1','11PPLG2','11PPLG3']),
-            'status' => fake() -> randomElement(['Active','InActive']),
+            'keadaan' => fake() -> randomElement(['Active','InActive']),
         ];
     }
 }
