@@ -8,7 +8,7 @@
             <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                 <tr>
                     <th scope="col" class="px-6 py-3">ID</th>
-                    <th scope="col" class="px-6 py-3">Name</th>
+                    <th scope="col" class="px-6 py-3">Class</th>
                     <th scope="col" class="px-6 py-3">Major</th>
                 </tr>
             </thead>
@@ -16,7 +16,7 @@
                 @foreach ($classrooms as $classroom)
                     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                         <td class="px-6 py-4">{{ $classroom['id'] }}</td>
-                        <td class="px-6 py-4 font-medium text-gray-900 dark:text-white">{{ $classroom['name'] }}</td>
+                        <td class="px-6 py-4 font-medium text-gray-900 dark:text-white">{{ $classroom['classroom'] }}</td>
                         <td class="px-6 py-4">{{ $classroom['major'] }}</td>
                     </tr>
                 @endforeach
