@@ -182,7 +182,7 @@
                                 {{ $siswa['nis'] }}
                             </td>
                             <td class="px-6 py-4">
-                                {{ $siswa['classroom'] }}
+                                {{ $siswa -> classroom -> classrooms ?? 'Belum Ada Kelas'}}
                             </td>
                             <td class="px-6 py-4">
                                 <span class="px-2.5 py-1 text-xs font-medium text-green-800 bg-green-100 rounded-full">

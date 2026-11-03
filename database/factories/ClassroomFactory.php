@@ -18,7 +18,7 @@ class ClassroomFactory extends Factory
     public function definition(): array
     {
         return [
-            'name' => fake() -> unique() -> randomElement([
+            'classrooms' => fake() -> unique() -> randomElement([
     // Kelas 10
     '10 PPLG 1', '10 PPLG 2', '10 PPLG 3',
     '10 ANIMASI 1', '10 ANIMASI 2', '10 ANIMASI 3', '10 ANIMASI 4', '10 ANIMASI 5',
